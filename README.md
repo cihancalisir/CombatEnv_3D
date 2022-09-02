@@ -1,3 +1,3 @@
 # multiagentCombatEnv_3D
 
-python testenv.py
+python /test/testenv.py
